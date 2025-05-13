@@ -1,6 +1,9 @@
 
 # 📝 Multimodal Language Converter (Hindi to English)
 
+This project is a Multimodal Language Converter that translates Hindi text or speech into English.
+It uses Helsinki-NLP/opus-mt-hi-en, a Transformer-based model for translation, and speech_recognition for converting speech to text.
+The output can be optionally summarized and then converted into speech using gTTS or pyttsx3 for audio playback.
 This notebook demonstrates a **Multimodal Language Converter** that translates **Hindi to English**, using both **text and speech inputs**. It integrates:
 
 - Text-based translation  
@@ -102,4 +105,3 @@ audio_input.wav        # Optional
 
 **Velagapudi Neeha**  
 AI & NLP Enthusiast  
-This project was developed as a part of a multimodal mini-project on text and speech translation systems.
