@@ -17,3 +17,4 @@ Summarizes translated English text using sumy or Hugging Face summarization pipe
 4. Text-to-Speech Output:
 Uses pyttsx3 or gTTS to speak out the translated and/or summarized English text.
 
+**Technologies and Libraries Used**
